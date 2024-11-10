@@ -13,59 +13,59 @@
 # Available font types: normal/compatibility
 # In case of missing characters use compatibility font.
 
-```
+
 Font=normal
-```
+
 
 [General]
 # Used for language select buttons
 
-```
+
 Language_Name_In_Local_Language=العربية
 
 Cancel=انهاء
 Close=اغلاق
 
 Open_Settings_Button=الاعدادات
-```
+
 
 # Switching scenes buttons
 
-```
+
 Build_Rocket=بناء صاروخ
 Resume_Game=متابعة العب
 Return_To_Main_Menu=رجوع لقائمة
 Exit_To_Main_Menu=اخرج لقائمة الرئيسية
-```
+
 
 [Main Menu]
 # Image at: https://drive.google.com/file/d/1mEFf3W964ldXBekpbTc-Jj1XcSnBQz4k/view?usp=sharing
 
-```
+
 Play=العب
-```
+
 
 # Tutorial
 
-```
+
 Video_Tutorials_OpenButton=البرنامج التعليمي
 Video_Orbit=تعليم_التحرك الفضائي
 Video_Moon=تعليم_النزول الارضي
 Video_Dock=تعليم_الهبوط
-```
+
 
 # Community
 
-```
+
 Community_OpenButton=المنتدي
 Community_Youtube=يوتيوب
 Community_Discord=ديسكورد
 Community_Reddit=رديت
-```
+
 
 # Roadmap
 
-```
+
 Roadmap_OpenButton=التحديثات المستقبلية
 
 Roadmap_Text=Version 1.51
@@ -97,11 +97,11 @@ Roadmap_Text=<color=grey>يتم تنقيح النظام الكهربائي با�
 Roadmap_Text=
 Roadmap_Text=
 Roadmap_Text=يرجي ملاحظة, يمكن ان تتغير هذه الخطط
-```
+
 
 # Credits
 
-```
+
 Credits_OpenButton=حول
 
 Credits_Text=Štefo Mai Morojna
@@ -118,22 +118,22 @@ Credits_Text=<Size=55> Komponist </size>
 Credits_Text=
 Credits_Text=Ashton Mills
 Credits_Text=<size=55> Komponist </size>
-```
+
 
 # Update menu
 
-```
+
 Update_Available=يوجد تحديث جديد!
 Update_Available=
 Update_Available=تحديث جدبد: %old%
 Update_Available=تحديث جديد: %new%
 
 Update_Confirm=Update
-```
+
 
 # Rate menu
 
-```
+
 Rate_Title=هل تريد تقيم او مراجعة اللعبة
 Rate_Title=
 Rate_Title=نحن ناخد لعبتنا علي محمل الجد.وتقيمنا يساعد علي تحسيناها
@@ -141,17 +141,17 @@ Rate_Title=
 Rate_Title=حتي بعد الاف من التعليقات ماذلنا نقرأ منها!
 
 Rate_Confirm=مراجعة
-```
+
 
 # Close menu
 
-```
+
 Close_Game=إغلاق اللعبة?
-```
+
 
 # Startup Messages
 
-```
+
 Early_Supporter_Message=رسالة الدعم المبكره:
 Early_Supporter_Message=
 Early_Supporter_Message= - اجزاء اخري
@@ -159,31 +159,31 @@ Early_Supporter_Message= - مظاهر اخري
 Early_Supporter_Message= - كواكب اخري
 Early_Supporter_Message=
 Early_Supporter_Message=شكرا لدعمكم!
-```
+
 
 [Worlds Menu]
 # Worlds are save slots; image at: https://drive.google.com/file/d/1vUYrXaem4ki1dcXRFUJLKWZEcE0PFno-/view?usp=teilen
 
-```
+
 Create_New_World_Button=أنشاء عالم جديد
-```
+
 
 # Create menu
 
-```
+
 Create_World_Title=انشاء اسم العالم
 Default_World_Name=اسم العالم الافتراضي
-```
+
 
 # Delete menu
 
-```
+
 World_Delete=مسح العالم?
-```
+
 
 # Select system menu
 
-```
+
 Select_Solar_System=اختيار نظام شمسي
 
 Select_Solar_System__NotFound=لم يجد النظام الشمسي المحدد:
@@ -193,57 +193,57 @@ Select_Solar_System__NotFound=لم يجد النظام الشمسي المحدد
 
 Default_Solar_System=النظام الشمسي (Standard)
 Custom_Solar_System=%name% (مخصص)
-```
+
 
 # World play times
 
-```
+
 Last_Played=اخري لعبة: قبل %value%
 Just_Played=لعبت اخر مرة: واحد مرة
 Time_Played=Spielzeit: %value%
-```
+
 
 [Saving]
 # Blueprint stuff; Blueprints are rocket designs; images at: https://drive.google.com/drive/folders/15m4nXgzr8fvql78TheE3Qy1WPrTaIqdJ?usp=teilen
 
-```
+
 Blueprints_Menu_Title=المخطوط
 Unnamed_Blueprint=مخطوط غير مسمي
 Save_Blueprint=حفظ المخطوط
 Load_Blueprint=تحميل مخطوط
 Cannot_Save_Empty_Build=لا يمكن حفظ بناء فارغ
-```
+
 
 # Quicksave stuff; Quicksaves let players save at any time and return to it.
 # It does not necessarily have to be called quicksave, player just needs to understand its use.
 # Image at: https://drive.google.com/drive/folders/128aXHWoUhJXZbbKVBDXXSMoCvRwFpvct?usp=teilen
 
-```
+
 Quicksaves_Menu_Title=الحفظ السريع
 Unnamed_Quicksave=حفظ سريع غير مسمي Quicksave
 Create_Quicksave=انشاء حفظ سريع
 Load_Quicksave=تحميل الحفظ السريع
-```
+
 
 # Save and load menus; context seen in images from blueprint/quicksave stuff
 
-```
+
 Save=حفظ
 Load=تحميل
 Delete=حذف
 Rename=اعادة التسمية
-```
+
 
 # In progress
 
-```
+
 Saving_In_Progress=جاري الحفظ ...
 Loading_In_Progress=جاري التحميل ...
-```
+
 
 # filetype (injected)
 
-```
+
 Blueprint{0}=مخطوط
 Blueprint{1}=مخطوط
 Blueprint{2}=مخطوطات
@@ -251,25 +251,25 @@ Blueprint{2}=مخطوطات
 Quicksave{0}=حفظ سريع
 Quicksave{1}=حفظ سريع
 Quicksave{2}=المحفوظات
-```
+
 
 # Ask overwrite menu; image at: https://drive.google.com/file/d/1EOI9UIWAG-lNgrdk1IMmrpmf6rRBuA7Q/view?usp=teilen
 
-```
+
 File_Already_Exists=واحد %filetype{1}%-الملف مع هذا الاسم موجود
 Overwrite_File=%filetype{1}%-الكتابة فوق الملف
 New_File=Neue %filetype{1}%-الملف
-```
+
 
 # Load failure; image at: https://drive.google.com/file/d/1c7qHCdbS1ShSq4rKIHMpHKCTuh0pXeHv/view?usp=teilen
 
-```
+
 Load_Failed=الملف %filetype{1}% في %filepath% لا يمكن تحميل
-```
+
 
 # Legacy Messages
 
-```
+
 Conversion_Message=مرحبا بكم في 1.5.
 Conversion_Message=
 Conversion_Message=مرحبا جمبعا 1.4-تم تحويل اصدار اللعبةالي 1.5-تلقائيا
@@ -280,12 +280,12 @@ Conversion_Failed=1.4-%filetype{1}%-تم العقور علي الملف وتحو
 Conversion_Failed=
 Conversion_Failed=فشل التحويل:
 Conversion_Failed=%reason%
-```
+
 
 [Purchasing]
 # Images at: https://drive.google.com/drive/folders/1kIhFuPRp8YXkZ8SVC5Jq9UJkNZqdasQC?usp=teilen
 
-```
+
 Parts_Expansion=اجزاء اخري
 Skins_Expansion=مظاهر اخري
 Planets_Expansion=كواكب اخري
@@ -330,42 +330,42 @@ Purchase_FAQ_Text=
 Purchase_FAQ_Text=
 Purchase_FAQ_Text=<color=grey>المبالغ المستردة الممكنة?</color>
 Purchase_FAQ_Text=Ja, بالتاكيد, يتم تقديم الطلب في فترك زمنية محدده, سنقوم برد المشتريات, لا اسئلة طرحت
-```
+
 
 # Parts Expansion; images at: https://drive.google.com/drive/folders/1JMCVDO9BN5z2ECeIq07kkQ4W0-evIMSb?usp=teilen
 
-```
+
 PartsExpansion_Tanks=مموعة كبيرة ومتنوعة من خزنات الوقود!
 PartsExpansion_Engines=الثقيل-الصاروخ!
 PartsExpansion_Parts=اجزاء مع العديد من الاحجام!
 
 PartsExpansion_Build=مساحة بناء كبيرة, الخاصة بلبناء
 PartsExpansion_Build=الابدعات  تحقيق
-```
+
 
 # Skins Expansion; images at: https://drive.google.com/drive/folders/1-X2n4Y-AUDehknKdBiqCy7TG-DyqLgyf?usp=teilen
 
-```
+
 SkinsExpansion_Tanks=مجموعة واسعة من المظاهر!
 SkinsExpansion_Interstages=انشاء كل شئ, من المرحلة المتوسطة
 SkinsExpansion_Nosecones=نصيحة الصواريخ
 SkinsExpansion_Fairings=مظاهر لتغيرها
-```
+
 
 # Planets Expansion; images at: https://drive.google.com/drive/folders/15lIYDSIOPrSei1DJBrvHRDQ_WieAb0yf?usp=teilen
 
-```
+
 PlanetsExpansion_Jupiter=استكشاف المشتري واقمره الاربعة!
 PlanetsExpansion_Callisto=استكشاف كسليتو واقماره!
 PlanetsExpansion_Europa=الي المناطق الشاسعة في اوربا!
 
 PlanetsExpansion_Conclusion=العوالم الاخري في انتظاركم
 PlanetsExpansion_Conclusion=باحثا ان تصبح!
-```
+
 
 # Expansion Bundle; images at: https://drive.google.com/file/d/1aWdcqNciwf7i3ju1Hx7mHnKyGBS2_tYU/view?usp=teilen
 
-```
+
 ExpansionBundle_Sandbox=مكافاة
 ExpansionBundle_Sandbox=Sandbox-Modus
 
@@ -373,12 +373,12 @@ ExpansionBundle_Infinite_Fuel=وقود غير محدود
 ExpansionBundle_No_Atmospheric_Drag=مقاومة الهواء
 ExpansionBundle_Unbreakable_Parts=اجزاء غير قابلة لكسر
 ExpansionBundle_No_Gravity=لا جاذبية
-```
+
 
 [Settings]
 # Image at: https://drive.google.com/file/d/1kF_zlTUw7QQnCIfcVNRHGDsn_rH-ySkF/view?usp=teilen
 
-```
+
 Music_Name=الموسيقي:
 Sound_Name=النغمات:
 Screen_Rotation_Name=تدوير الشاشة:
@@ -389,12 +389,12 @@ Infinite_Fuel_Name=وقود غير محدود:
 No_Atmospheric_Drag_Name=مقاومة الهواء:
 Unbreakable_Parts_Name=اجزاء غير قابلة لكسر:
 No_Gravity_Name=لا جاذبية:
-```
+
 
 # This version of is displayed on screen to let players know what cheats they are using
 # Image as: https://drive.google.com/file/d/1_uDOsT_yAgui19jNqAwx_CMGvLoS5LYh/view?usp=teilen
 
-```
+
 Cheat_On{0}=مفعل
 Cheat_Off{0}=غير مفعل
 
@@ -402,12 +402,12 @@ Infinite_Fuel=وقود غير محدود: %value{0}%
 No_Atmospheric_Drag=مقاومة الهواء: %value{0}%
 Unbreakable_Parts=قطع غير قابلة لكسر: %value{0}%
 No_Gravity=مقاومة الجاذبية: %value{0}%
-```
+
 
 [Build]
 # Images at: https://drive.google.com/drive/folders/16-6I-SE_4nmVTjNxsUdAUJtUDIBe5WVz?usp=teilen
 
-```
+
 Build_New_Rocket=بناء صاروخ جديد
 Resume_Build=متابعة البناء
 
@@ -416,18 +416,18 @@ Symmetry_Off=التماثيل: غير مفعل
 
 Launch_Button=اطلاق
 Move_Rocket_Button=تحريك الصاروخ
-```
+
 
 # Clear build area
 
-```
+
 Clear_Warning=هل تريد المسح?
 Clear_Confirm=تم المسح
-```
+
 
 # Launch warnings
 
-```
+
 Missing_Capsule=الصاروخ لا يمتلك كبسولة
 Missing_Parachute=الصاروخ لا يمتلك بارشوت الهبوط
 
@@ -437,56 +437,56 @@ Too_Heavy=
 Too_Heavy=قلل وزن الصاروخ او استخدم محرك اقوي
 
 Launch_Anyway_Button=اطلاق بي اي حال
-```
+
 
 # Example rockets
 
-```
+
 Example_Rockets_OpenMenu=مخزن-صواريخ
 Basic_Rocket=صاروخ عادي
 Stages=Stufen
 Ideal_Stages=مستوي مثالي
 Lander=هبوط
-```
+
 
 [Map] Toggle_Map_Button=Karte
 # Shown in map when you escape a gravity field of a planet
 # image for escape/encounter at: https://drive.google.com/file/d/17jqJF09DWoqkgW9VGXdG7SRCSo0UmW0o/view?usp=teilen
 
-```
+
 Escape=هروب
-```
+
 
 # Shown in map when you encounter/enter a gravity field of a planet
 
-```
+
 Encounter=لقاء
-```
+
 
 # Shown in map when you approach/encounter another rocket
 
-```
+
 Rendezvous=تصادم
-```
+
 
 # Shows the transfer window to another planet
 # image at: https://drive.google.com/file/d/1zd8UEnVb91QmSDllEu1DyCbkCsDKbJk3/view?usp=teilen
 
-```
+
 Transfer=الناقلات
-```
+
 
 [Game]
 # Image at: https://drive.google.com/file/d/1d0b-udFyO4ItlYu1vVaVdzgwdAeT1hPw/view?usp=teilen
 
-```
+
 Throttle_On=مفعل
 Throttle_Off=مغلق
-```
+
 
 # Game supports screen rotation, we split into 2 lines in vertical mode
 
-```
+
 Height_Terrain_Vertical=الارتفاع (Terrain):
 Height_Terrain_Vertical=
 Height_Terrain_Vertical=%height%
@@ -498,11 +498,11 @@ Height_Vertical=%height%
 Velocity_Vertical=السرعة:
 Velocity_Vertical=
 Velocity_Vertical=%speed%
-```
+
 
 # Angle indicates the best angle/direction the player can rotate their rocket towards
 
-```
+
 Angle_Vertical=الزوية
 Angle_Vertical=
 Angle_Vertical=%angle% / %targetAngle%
@@ -510,24 +510,24 @@ Angle_Vertical=%angle% / %targetAngle%
 Height_Terrain_Horizontal=الارتفاع (Terrain): %height%
 Height_Horizontal=الارتفاع: %height%
 Velocity_Horizontal=السرعة الافقية: %speed%
-```
+
 
 # Angle indicates the best angle/direction the player can rotate their rocket towards
 
-```
+
 Angle_Horizontal=زاوية: %angle% / %targetAngle%
-```
+
 
 [Game menus]
 # Image at: https://drive.google.com/file/d/1XPUZnlFGrs9ZQ0QRjqbvKMEwXg1Pl7cF/view?usp=teilen
 
-```
+
 Restart_Mission=اعادة المهمة
-```
+
 
 # Restart menu
 
-```
+
 Restart_Mission_To_Launch=اعادة المهمة لي الاطلاق
 
 Restart_Mission_To_Launch_Warning=العودة للبناء?
@@ -539,92 +539,92 @@ Restart_Mission_To_Build=العودة للبناء
 Restart_Mission_To_Build_Warning=العودة الي بناء الصاروخ?
 Restart_Mission_To_Build_Warning=
 Restart_Mission_To_Build_Warning=سوف تفقد التقدم الحالي
-```
+
 
 # End mission menu; image at: https://drive.google.com/file/d/1L5FUM09JCZ6DCXFZfJPOM0CWHIEwvqMs/view?usp=teilen
 
-```
+
 End_Mission_Menu_Title=نجاح المهمة:
 End_Mission=تمت المهمة
-```
+
 
 # Clear space junk/debris
 
-```
+
 Clear_Debris_Warning=ازالة الحطام?
 Clear_Debris_Warning=
 Clear_Debris_Warning=سيتم ازالة كل الصواريخ الغير قابلة لتحكم بها
 
 Clear_Debris_Confirm=ازالة الحطام
-```
+
 
 # Select menu; Image at: https://drive.google.com/file/d/1CBIAZ3o_Z7bpEAb8sVdTdDeF4KB8-Yyi/view?usp=teilen
 
-```
+
 Navigate_To=التحرك الي الاتجاه
 End_Navigation=انهاء التحرك الي
 Focus=تركيز علي
 Unfocus=ازالة التركيز علي
 Switch_To=التغير الي
-```
+
 
 [Rocket] Default_Rocket_Name=صاروخ
 # Informs the player that he cannot perform an action due to rocket having no control
 
-```
+
 No_Control_Msg=لا غرفة تحكم
-```
+
 
 [Timewarp]
 # Timewarp = تخطي الوقت اسرع
 
-```
+
 Msg_Timewarp_Speed=تسريع الرقت %speed% x
 Cannot_Timewarp_Below=تسريع الوقت قبل %height%  هذا الارتفاع غير ممكن
 Cannot_Timewarp_While_Moving_On_Surface=لا يمكن تسريع الوقت عندما تتحرك علي السطح
 Cannot_Timewarp_While_Accelerating=لا بمكن تسريع الوقت
 Cannot_Use_Part_While_Timewarping=الجزء %part{1}% ل يمكن استخدام تسريع الوقت عندما يكون
 Cannot_Turn_While_Timewarping=لا يمكن اثناء تسريع الوقت
-```
+
 
 [Units]
 # Image at: https://drive.google.com/file/d/1ljpGY55W8V1wF9esl5v569B0Z-D6xxMt/view?usp=teilen
 
-```
+
 Thrust_To_Weight_Ratio=قوة دفع الوزن: %value%
 Mass=الكتلة: %value%t
 Thrust=دفع: %value%t
 Burn_Time=وقت الاحتراق: %value%s
-```
+
 
 # Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=teilen
 
-```
+
 Efficiency=الكفاءة: %value% لتر
 Mass_Unit=طن
 Meter_Unit=متر
 Km_Unit=كيلومتر
 Meter_Per_Second_Unit=م/ث
-```
+
 
 [Timestamps] Second_Short=%value% ثانية Minute_Short=%value% دقيقة Hour_Short=%value% ساعة Day_Short=%value% يوم
 
 [Resource Types]
 # Image at: https://drive.google.com/file/d/17Bd9jTIYyI9nzOg3eXgy7sHdNe5O9gAt/view?usp=teilen
 
-```
+
 Solid_Fuel{0}=الوقود الصلب
 Solid_Fuel{1}=الوقود الصلب
 Liquid_Fuel{0}=الوقود السائل
 Liquid_Fuel{1}=الوقود السائل
-```
+
 
 [Resource Uses] Resource_Bars_Title=%resource_name{0}%: Info_Resource_Amount=%resource{0}%: %amount% Msg_No_Resource_Source=لا مصدر لها %resource{1}% Msg_No_Resource_Left=%resource{1}% مستعملة
 
 [Part Categories]
 # Image at: https://drive.google.com/file/d/1uyI7pvGaGyKrYOpe_2vC4MLaNPKy-wYE/view?usp=teilen
 
-```
+
 Basic_Parts=قطع رئيسية
 Six_Wide_Parts= 6 اضعاف
 Eight_Wide_Parts=8 اضعاف
@@ -635,7 +635,7 @@ Aerodynamics_Parts=الدنمايكا الهوائية
 Fairings_Parts=تمويه
 Structural_Parts=الهيكل
 Other_Parts=قطع اخري
-```
+
 
 [Part Names] Capsule_Name{0}=كبسولة Capsule_Name{1}=كبسولة Probe_Name{0}=عينة Probe_Name{1}=عينة Parachute_Name{0}=المظلة Parachute_Name{1}=المظلة Kolibri_Engine_Name{0}=كولبي-محرك Kolibri_Engine_Name{1}=كولبي-محرك Hawk_Engine_Name{0}=محرك الصقر Hawk_Engine_Name{1}=محرك الصقر Valiant_Engine_Name{0}=محرك خفيف Valiant_Engine_Name{1}=محرك خفيف Titan_Engine_Name{0}=محرك عملاق Titan_Engine_Name{1}=محرك عملاق Frontier_Engine_Name{0}=محرك محدود Frontier_Engine_Name{1}=محرك محدود Ion_Engine_Name{0}=محرك ايون Ion_Engine_Name{1}=محرك ايون RCS_Thruster_Name{0}=جهاز تحريك RCS_Thruster_Name{1}=جهاز تحريك Fuel_Tank_Name{0}=خزان وقود Fuel_Tank_Name{1}=خزان وقود Separator_Name{0}=جسر Separator_Name{1}=جسر Side_Separator_Name{0}=الجسر الجانبي Side_Separator_Name{1}=الجسر الجانبي Structural_Part_Name{0}=الجزء الهيكلي Structural_Part_Name{1}=الجزء الهيكلي Landing_Leg_Name{0}=زراع الهبوط Landing_Leg_Name{1}=زراع الهبوط Aerodynamic_Nose_Cone_Name{0}=طرف الصورايخ الهوائية Aerodynamic_Nose_Cone_Name{1}=طرف الصوراريخ الهوائية Aerodynamic_Fuselage_Name{0}=بدن هوائي Aerodynamic_Fuselage_Name{1}=بدن هوائي Fairing_Name{0}=تمويه Fairing_Name{1}=تمويه Rover_Wheel_Name{0}=عجلة حمراء Rover_Wheel_Name{1}=عجلة حمراء Docking_Port_Name{0}=حلقة ارساء Docking_Port_Name{1}=حلقة ارساء Solar_Panel_Name{0}=الواح شمسية Solar_Panel_Name{1}=الواح شمسية Battery_Name{0}=بطارية Battery_Name{1}=بطارية RTG_Name{0}=RTG RTG_Name{1}=RTG
 
@@ -643,7 +643,7 @@ Other_Parts=قطع اخري
 
 [Modules] Activate_Separator=فك Activate_Fairing= استخدام التمويه
 
-```
+
 Torque_Module_Torque=عزم الدوران: %value%kN
 Separation_Force=قوة الفصل: %value%kN
 
@@ -671,11 +671,52 @@ Msg_Cannot_Deploy_Parachute_While_Not_Moving=لا يمكن استخدام الم
 Msg_Parachute_Half_Deployed=تم تطلاق نصف المظلة
 Msg_Parachute_Fully_Deployed=تم تطلاق المظلة بالكامل
 Msg_Parachute_Cut=تم فصل المظلة
-```
 
-[Planets] Sun{0}=الشمس Sun{1}=die الشمس Sun{2}=Die الشمس Mercury{0}=عطارد Venus{0}=الزهرة Earth{0}=der الارض Earth{1}=die الارض Earth{2}=Die الارض Earth{3}=der الارض Moon{0}=القمر Moon{1}=القمر Moon{2}=القمر Mars{0}=المريخ Phobos{0}=بلوتو Deimos{0}=Deimos Jupiter{0}=المشتري Jupiter{1}=المشتري Jupiter{2}=المشتري Jupiter{3}=المشتري Europa{0}=روبيان Ganymede{0}=غانميد Io{0}=Io Callisto{0}=كاليستو
 
-[Achievements] Reached_Low_Orbit=وصول المدار %planet{0}% تم الوصول الي Reached_High_Orbit=صول المدار المرتفع %planet{0}% تم الوصول الي Descend_Low_Orbit=خروج المدار المنخفض %planet{0}% ينحدر Capture_Low_Orbit=تم الوصل للمدار المنخفض %planet{0}% تم الوصول Capture_High_Orbit=المدار المرتفع %planet{0}% تم الوصول
+[Planets]
+
+Sun{0}=الشمس
+Sun{1}=die الشمس
+Sun{2}=Die الشمس
+
+Mercury{0}=عطارد
+
+Venus{0}=الزهرة
+
+Earth{0}=der الارض
+Earth{1}=die الارض
+Earth{2}=Die الارض
+Earth{3}=der الارض
+
+Moon{0}=القمر
+Moon{1}=القمر
+Moon{2}=القمر
+
+Mars{0}=المريخ
+
+Phobos{0}=بلوتو
+
+Deimos{0}=Deimos
+
+Jupiter{0}=المشتري
+Jupiter{1}=المشتري
+Jupiter{2}=المشتري
+Jupiter{3}=المشتري
+
+Europa{0}=روبيان
+
+Ganymede{0}=غانميد
+
+Io{0}=Io
+
+Callisto{0}=كاليستو
+
+[Achievements]
+Reached_Low_Orbit=وصول المدار %planet{0}% تم الوصول الي
+Reached_High_Orbit=صول المدار المرتفع %planet{0}% تم الوصول الي
+Descend_Low_Orbit=خروج المدار المنخفض %planet{0}% ينحدر
+Capture_Low_Orbit=تم الوصل للمدار المنخفض %planet{0}% تم الوصول
+Capture_High_Orbit=المدار المرتفع %planet{0}% تم الوصول
 
 Entered_Lower_Atmosphere=وصول للغلاف الجوي المتخفض %planet{3}%
 Entered_Upper_Atmosphere=وصول للغلاف الجوي المرتفع %planet{3}%
