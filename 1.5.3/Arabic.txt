@@ -1,4 +1,4 @@
-# REAM ME:
+# READ ME:
 # The format used here is derived from INI.
 # We have added something special called variantsq.
 # Example:
@@ -13,13 +13,15 @@
 # Available font types: normal/compatibility
 # In case of missing characters use compatibility font.
 
-
+[None]
+None=
 Font=normal
 
 
 [General]
 # Used for language select buttons
-
+On=مُشَغَّل
+Off=مُطْفَأ
 
 Language_Name_In_Local_Language=العربية
 
